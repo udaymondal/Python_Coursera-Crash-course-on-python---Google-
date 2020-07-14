@@ -16,3 +16,16 @@ def is_even(number):
         print("Odd")
 
 is_even(6)
+
+
+# logical functions
+
+print(10>1)
+print("cat" < "Cat")
+print("candy" == "candy" or "dog" == "cat")
+
+
+
+
+
+

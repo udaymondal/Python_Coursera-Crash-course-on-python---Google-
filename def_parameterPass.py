@@ -23,4 +23,13 @@ month_days("February", "28")
 #print(len(namwe))
 
 
+#lucky LEN number
+def lucky_number(name):
+    number  = len(name) * 9
+    print("Hello " + name + ". Your lucky number is " + str(number))
+
+
+lucky_number("Kay")
+lucky_number("Cameron")
+
 
